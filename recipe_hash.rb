@@ -1,4 +1,21 @@
-#code your solutions here
+perfect_10_recipe = {
+:almond_flour => "two cups",
+:gluten_freewhole_oats => "one cup", 
+:kosher_salt => "onehalf teaspoon",
+:baking_powder => "onehalf teaspoon",
+:baking_soda => "oneforth teaspoon",
+:xanthan_gum => "onehalf teaspoon",
+:slivered_almonds_lightly_toasted => "oneforth teaspoon",
+:mini_dark_chocolate_chips => "threeforth teaspoon",
+:olive_oil => "onehalf teaspoon",
+:agave => "one forth"
+}
+
+
+
+
+
+
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
